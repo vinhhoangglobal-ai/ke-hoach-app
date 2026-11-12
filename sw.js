@@ -1,5 +1,5 @@
 // Service worker: lưu vỏ app để mở được khi mạng yếu. Dữ liệu luôn lấy mới, không cache.
-const CACHE = 'khkh-v1';
+const CACHE = 'khkh-v2';
 const VO_APP = [
   './', './index.html', './style.css', './app.js', './lib.js', './store.js', './manifest.webmanifest',
   './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png',
